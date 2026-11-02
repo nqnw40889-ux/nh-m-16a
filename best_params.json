@@ -1,0 +1,9 @@
+{
+  "model__scale_pos_weight": 5.341897132939097,
+  "model__reg_lambda": 10.0,
+  "model__num_leaves": 31,
+  "model__n_estimators": 600,
+  "model__min_child_samples": 10,
+  "model__max_depth": 6,
+  "model__learning_rate": 0.05
+}
